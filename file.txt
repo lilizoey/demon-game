@@ -1,1 +1,2 @@
 Hello! this is A file! not B file!
+NOW we have a branch
